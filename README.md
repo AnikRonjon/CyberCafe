@@ -5,3 +5,9 @@
   "age": 25
 }
 ```
+
+---
+
+| Syntax | Description |
+| Header | Title |
+| Paragraph | Text |
