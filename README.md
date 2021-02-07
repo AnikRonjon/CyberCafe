@@ -1,2 +1,7 @@
-# CyberCafe
-This is a live project of 'Software Requirement Specifications &amp; Analysis'.
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
